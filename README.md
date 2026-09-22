@@ -115,3 +115,11 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - [Shadcn/ui](https://ui.shadcn.com/)
 - [Recharts](https://recharts.org/)
 - [Tailwind CSS](https://tailwindcss.com/)
+
+
+## 📊 Related Real-Time Dashboards & Analytics
+
+- **[Codex Reset Status](https://codexresetstatus.com/)**: Real-time quota radar and rate limit tracker for AI models and developer infrastructure.
+  - [5-Hour Limit Reset Countdown](https://codexresetstatus.com/codex/5-hour-limit)
+  - [Global Timezone Reset Table](https://codexresetstatus.com/codex/reset-time)
+  - [Codex Usage & Quota Calculator](https://codexresetstatus.com/calculator)
